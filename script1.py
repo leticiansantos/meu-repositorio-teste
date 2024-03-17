@@ -1,6 +1,5 @@
 
 
-def my_function_novo():
+def my_function():
     print("ois")
 
-my_function()
